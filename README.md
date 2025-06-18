@@ -35,9 +35,9 @@ This project demonstrates a simple yet powerful face recognition system using **
 - Everything is stored and referenced from your S3 bucket.
 
 ## 📂 Project Structure
-├── face_recognition.py # Main script
-├── README.md # Project documentation
-└── setup-instructions.md # Step-by-step deployment guide 
+├── face_recognition.py # Main script<br>
+├── README.md # Project documentation<br>
+└── setup-instructions.md # Step-by-step deployment guide <br>
 ## 📸 Demo
 
 
